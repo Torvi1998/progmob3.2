@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">progmob3.2</string>
+    <string name="record_button">START RECORDING</string>
+    <string name="stop_button">STOP RECORDING</string>
+    <string name="play_button">PLAY RECORDING</string>
+    <string name="top_text">Record sound and play it back!</string>
+</resources>
